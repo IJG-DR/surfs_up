@@ -23,3 +23,5 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 ## Summary: 
 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+
+Histogram by station and Scatter plot of precip vs temp by station to see if Oahu weather is localized (micro-climates), similar to the plots we did for the PyBer analysis.
